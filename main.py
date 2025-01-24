@@ -70,7 +70,7 @@ class ZenasBot:
 
 def main():
     # Replace with your Telegram bot token
-    TELEGRAM_TOKEN = "7325536944:AAFcEnPchIHczsPaSXzDqaBFGkc3praPLFk"
+    TELEGRAM_TOKEN = "Replace your telegram token here"
     
     # Create and run the bot
     bot = ZenasBot(TELEGRAM_TOKEN)
