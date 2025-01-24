@@ -1,8 +1,8 @@
-# ZenasBot - Telegram AI Assistant
+# ZenasBot - Telegram AI Assistant 🌟🌟
 
 ZenasBot is a Telegram-based AI assistant powered by the **Llama 2** language model. It allows users to interact with an AI chatbot directly within Telegram, providing responses to user queries in real-time. This project demonstrates the integration of a large language model (LLM) with a messaging platform, showcasing how AI can be used to enhance user interaction and provide intelligent responses.
 
-## Features
+## 🧩 Features
 
 - **Real-time AI Responses**: ZenasBot uses the Llama 2 7B model to generate intelligent and context-aware responses to user messages.
 - **Telegram Integration**: The bot is built using the `python-telegram-bot` library, allowing seamless integration with Telegram.
@@ -16,16 +16,19 @@ ZenasBot is a Telegram-based AI assistant powered by the **Llama 2** language mo
 - **ctransformers**: A library used to load and interact with the Llama 2 model in a lightweight and efficient manner.
 - **Llama 2**: A state-of-the-art large language model developed by Meta, used for generating responses.
 
-## How It Works
+## 🛠️ How It Works
 
 1. **Initialization**: The bot initializes the Llama 2 model and sets up the Telegram bot using the provided token.
 2. **Command Handling**: The bot listens for commands like `/start` and `/help` and responds with appropriate messages.
 3. **Message Handling**: When a user sends a message, the bot generates a response using the Llama 2 model and sends it back to the user.
 4. **Error Handling**: The bot includes basic error handling to manage any issues that arise during message processing.
 
-## Preview
+## 🖥️ Preview
+### **Homepage**
+![Chatbot Screenshot](Images/First.png)
 
-
+### **Technologies Selector**
+![Chatbot Selector](Images/Second.png)
 
 ## Setup Instructions
 
@@ -47,8 +50,8 @@ ZenasBot is a Telegram-based AI assistant powered by the **Llama 2** language mo
 
  - Advanced Error Handling: Improve error handling and logging for better debugging and user experience.
 
-## Contributing
+## 🤝 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-## License
+## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
