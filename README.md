@@ -25,10 +25,10 @@ ZenasBot is a Telegram-based AI assistant powered by the **Llama 2** language mo
 
 ## 🖥️ Preview
 ### **Chatbot Screenshot**
-![Chatbot Screenshot](Images/First.png)
+![Chatbot Screenshot](Images/First.jpg)
 
 ### **Chatbot Screenshot**
-![Chatbot Screenshot](Images/Second.png)
+![Chatbot Screenshot](Images/Second.jpg)
 
 ## Setup Instructions
 
